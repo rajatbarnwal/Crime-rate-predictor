@@ -1,0 +1,343 @@
+Area_Name,Year,total_case_sum
+Andaman & Nicobar Islands,2001,20082
+Andaman & Nicobar Islands,2002,18756
+Andaman & Nicobar Islands,2003,20724
+Andaman & Nicobar Islands,2004,23226
+Andaman & Nicobar Islands,2005,22842
+Andaman & Nicobar Islands,2006,23874
+Andaman & Nicobar Islands,2007,29034
+Andaman & Nicobar Islands,2008,22613
+Andaman & Nicobar Islands,2009,34629
+Andaman & Nicobar Islands,2010,34143
+Andhra Pradesh,2001,3540417
+Andhra Pradesh,2002,3824514
+Andhra Pradesh,2003,4297500
+Andhra Pradesh,2004,4241469
+Andhra Pradesh,2005,4475646
+Andhra Pradesh,2006,4486536
+Andhra Pradesh,2007,4746168
+Andhra Pradesh,2008,3633575
+Andhra Pradesh,2009,4967262
+Andhra Pradesh,2010,5409705
+Arunachal Pradesh,2001,106737
+Arunachal Pradesh,2002,103299
+Arunachal Pradesh,2003,105873
+Arunachal Pradesh,2004,104787
+Arunachal Pradesh,2005,127233
+Arunachal Pradesh,2006,119223
+Arunachal Pradesh,2007,125685
+Arunachal Pradesh,2008,95223
+Arunachal Pradesh,2009,118995
+Arunachal Pradesh,2010,132891
+Assam,2001,1293276
+Assam,2002,1364034
+Assam,2003,1416312
+Assam,2004,1483191
+Assam,2005,1521873
+Assam,2006,1703913
+Assam,2007,2140581
+Assam,2008,1467280
+Assam,2009,1948113
+Assam,2010,2088090
+Bihar,2001,2622855
+Bihar,2002,2773713
+Bihar,2003,2816400
+Bihar,2004,3050301
+Bihar,2005,2888127
+Bihar,2006,2910393
+Bihar,2007,2884026
+Bihar,2008,2348863
+Bihar,2009,3264465
+Bihar,2010,3278922
+Chandigarh,2001,156510
+Chandigarh,2002,169233
+Chandigarh,2003,133839
+Chandigarh,2004,151866
+Chandigarh,2005,155520
+Chandigarh,2006,147258
+Chandigarh,2007,189573
+Chandigarh,2008,182741
+Chandigarh,2009,193788
+Chandigarh,2010,176898
+Chhattisgarh,2001,1706130
+Chhattisgarh,2002,1541022
+Chhattisgarh,2003,1446066
+Chhattisgarh,2004,1641624
+Chhattisgarh,2005,1606347
+Chhattisgarh,2006,1592745
+Chhattisgarh,2007,1652046
+Chhattisgarh,2008,1320941
+Chhattisgarh,2009,1805313
+Chhattisgarh,2010,1831716
+Dadra & Nagar Haveli,2001,7524
+Dadra & Nagar Haveli,2002,14670
+Dadra & Nagar Haveli,2003,14040
+Dadra & Nagar Haveli,2004,12936
+Dadra & Nagar Haveli,2005,9268
+Dadra & Nagar Haveli,2006,15438
+Dadra & Nagar Haveli,2007,15300
+Dadra & Nagar Haveli,2008,12216
+Dadra & Nagar Haveli,2009,16464
+Dadra & Nagar Haveli,2010,13959
+Daman & Diu,2002,11292
+Daman & Diu,2003,9342
+Daman & Diu,2004,6570
+Daman & Diu,2005,6382
+Daman & Diu,2006,12846
+Daman & Diu,2007,10920
+Daman & Diu,2008,8021
+Daman & Diu,2009,8211
+Daman & Diu,2010,5914
+Delhi,2001,2168589
+Delhi,2002,1962774
+Delhi,2003,1868178
+Delhi,2004,2194149
+Delhi,2005,2194710
+Delhi,2006,2194611
+Delhi,2007,2208144
+Delhi,2008,1934041
+Delhi,2009,2521299
+Delhi,2010,2666298
+Goa,2001,92532
+Goa,2002,83403
+Goa,2003,76377
+Goa,2004,78909
+Goa,2005,81312
+Goa,2006,76362
+Goa,2007,78312
+Goa,2008,81974
+Goa,2009,113532
+Goa,2010,128868
+Gujarat,2001,3312591
+Gujarat,2002,3608226
+Gujarat,2003,3822105
+Gujarat,2004,3855606
+Gujarat,2005,3840186
+Gujarat,2006,4031358
+Gujarat,2007,4136631
+Gujarat,2008,3198629
+Gujarat,2009,4530684
+Gujarat,2010,4416294
+Haryana,2001,1314084
+Haryana,2002,1334565
+Haryana,2003,1291563
+Haryana,2004,1339161
+Haryana,2005,1533246
+Haryana,2006,1787034
+Haryana,2007,1925667
+Haryana,2008,1705918
+Haryana,2009,2176794
+Haryana,2010,2507346
+Himachal Pradesh,2001,271974
+Himachal Pradesh,2002,259383
+Himachal Pradesh,2003,266208
+Himachal Pradesh,2004,275655
+Himachal Pradesh,2005,274737
+Himachal Pradesh,2006,282678
+Himachal Pradesh,2007,315861
+Himachal Pradesh,2008,239707
+Himachal Pradesh,2009,313848
+Himachal Pradesh,2010,316815
+Jammu & Kashmir,2001,733809
+Jammu & Kashmir,2002,752970
+Jammu & Kashmir,2003,764607
+Jammu & Kashmir,2004,769395
+Jammu & Kashmir,2005,747009
+Jammu & Kashmir,2006,768711
+Jammu & Kashmir,2007,778407
+Jammu & Kashmir,2008,515012
+Jammu & Kashmir,2009,860757
+Jammu & Kashmir,2010,840060
+Jharkhand,2001,923460
+Jharkhand,2002,1168614
+Jharkhand,2003,1123761
+Jharkhand,2004,1152213
+Jharkhand,2005,1234998
+Jharkhand,2006,1281441
+Jharkhand,2007,1336014
+Jharkhand,2008,1077512
+Jharkhand,2009,1396512
+Jharkhand,2010,1353135
+Karnataka,2001,2395044
+Karnataka,2002,2515935
+Karnataka,2003,2538375
+Karnataka,2004,2674461
+Karnataka,2005,2762394
+Karnataka,2006,2616168
+Karnataka,2007,2539851
+Karnataka,2008,2365044
+Karnataka,2009,3299469
+Karnataka,2010,3363357
+Kerala,2001,1557447
+Kerala,2002,1705677
+Kerala,2003,1685910
+Kerala,2004,1840986
+Kerala,2005,1934766
+Kerala,2006,2013888
+Kerala,2007,2279232
+Kerala,2008,1533484
+Kerala,2009,2375340
+Kerala,2010,2387658
+Lakshadweep,2001,940
+Lakshadweep,2005,712
+Lakshadweep,2008,722
+Madhya Pradesh,2001,5414799
+Madhya Pradesh,2002,5526096
+Madhya Pradesh,2003,5477259
+Madhya Pradesh,2004,5682999
+Madhya Pradesh,2005,5490084
+Madhya Pradesh,2006,5536311
+Madhya Pradesh,2007,5720166
+Madhya Pradesh,2008,4288268
+Madhya Pradesh,2009,5823867
+Madhya Pradesh,2010,5675142
+Maharashtra,2001,8758962
+Maharashtra,2002,8597226
+Maharashtra,2003,8546667
+Maharashtra,2004,9158895
+Maharashtra,2005,9659421
+Maharashtra,2006,9832278
+Maharashtra,2007,10155393
+Maharashtra,2008,7994073
+Maharashtra,2009,10974681
+Maharashtra,2010,11468475
+Manipur,2001,75159
+Manipur,2002,71754
+Manipur,2003,65232
+Manipur,2004,64386
+Manipur,2005,81600
+Manipur,2006,82710
+Manipur,2007,117762
+Manipur,2008,103222
+Manipur,2009,83604
+Manipur,2010,69216
+Meghalaya,2001,98208
+Meghalaya,2002,104598
+Meghalaya,2003,101745
+Meghalaya,2004,98631
+Meghalaya,2005,99963
+Meghalaya,2006,106971
+Meghalaya,2007,108537
+Meghalaya,2008,115644
+Meghalaya,2009,117864
+Meghalaya,2010,126693
+Mizoram,2001,125112
+Mizoram,2002,121116
+Mizoram,2003,170838
+Mizoram,2004,83421
+Mizoram,2005,106140
+Mizoram,2006,102891
+Mizoram,2007,108150
+Mizoram,2008,86993
+Mizoram,2009,104283
+Mizoram,2010,120111
+Nagaland,2001,55890
+Nagaland,2002,60957
+Nagaland,2003,51813
+Nagaland,2004,38985
+Nagaland,2005,55227
+Nagaland,2006,60543
+Nagaland,2007,64341
+Nagaland,2008,61224
+Nagaland,2009,67347
+Nagaland,2010,68595
+Odisha,2001,1664949
+Odisha,2002,1658310
+Odisha,2003,1746783
+Odisha,2004,1884279
+Odisha,2005,2004609
+Odisha,2006,2131512
+Odisha,2007,2350611
+Odisha,2008,1628990
+Odisha,2009,2535519
+Odisha,2010,2778342
+Puducherry,2001,58968
+Puducherry,2002,62922
+Puducherry,2003,66918
+Puducherry,2004,68121
+Puducherry,2005,55005
+Puducherry,2006,66540
+Puducherry,2007,88659
+Puducherry,2008,68225
+Puducherry,2009,86202
+Puducherry,2010,73329
+Punjab,2001,705852
+Punjab,2002,739635
+Punjab,2003,820005
+Punjab,2004,727251
+Punjab,2005,744657
+Punjab,2006,910839
+Punjab,2007,1064793
+Punjab,2008,908462
+Punjab,2009,1158810
+Punjab,2010,1182453
+Rajasthan,2001,3493329
+Rajasthan,2002,3332667
+Rajasthan,2003,3366942
+Rajasthan,2004,3506115
+Rajasthan,2005,3169374
+Rajasthan,2006,3431286
+Rajasthan,2007,3671628
+Rajasthan,2008,2695764
+Rajasthan,2009,3430824
+Rajasthan,2010,4315797
+Sikkim,2001,13824
+Sikkim,2002,8968
+Sikkim,2003,13386
+Sikkim,2004,16548
+Sikkim,2005,15396
+Sikkim,2006,21327
+Sikkim,2007,19902
+Sikkim,2008,18222
+Sikkim,2009,21417
+Sikkim,2010,19140
+Tamil Nadu,2001,2672889
+Tamil Nadu,2002,2806374
+Tamil Nadu,2003,2635854
+Tamil Nadu,2004,2570256
+Tamil Nadu,2005,2419353
+Tamil Nadu,2006,2141475
+Tamil Nadu,2007,2210979
+Tamil Nadu,2008,1907733
+Tamil Nadu,2009,2523540
+Tamil Nadu,2010,2548710
+Tripura,2001,113256
+Tripura,2002,122100
+Tripura,2003,136770
+Tripura,2004,144444
+Tripura,2005,153726
+Tripura,2006,186414
+Tripura,2007,198888
+Tripura,2008,155005
+Tripura,2009,258468
+Tripura,2010,292314
+Uttar Pradesh,2001,6335916
+Uttar Pradesh,2002,5633259
+Uttar Pradesh,2003,4426830
+Uttar Pradesh,2004,5279454
+Uttar Pradesh,2005,5029461
+Uttar Pradesh,2006,4999602
+Uttar Pradesh,2007,5252427
+Uttar Pradesh,2008,3959293
+Uttar Pradesh,2009,5789499
+Uttar Pradesh,2010,5891616
+Uttarakhand,2001,311208
+Uttarakhand,2002,276906
+Uttarakhand,2003,279801
+Uttarakhand,2004,303822
+Uttarakhand,2005,315228
+Uttarakhand,2006,311844
+Uttarakhand,2007,334875
+Uttarakhand,2008,243063
+Uttarakhand,2009,313374
+Uttarakhand,2010,350478
+West Bengal,2001,3272676
+West Bengal,2002,3484047
+West Bengal,2003,3359001
+West Bengal,2004,3742236
+West Bengal,2005,3934236
+West Bengal,2006,4242726
+West Bengal,2007,4718100
+West Bengal,2008,3525107
+West Bengal,2009,6102099
+West Bengal,2010,7082700
